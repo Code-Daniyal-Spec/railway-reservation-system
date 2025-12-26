@@ -1,0 +1,4 @@
+railway
+*.o
+*.dat
+.idea/
